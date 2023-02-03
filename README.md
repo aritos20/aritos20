@@ -5,7 +5,7 @@
 ## 💻 About me </>
 
 ```javascript
-export const pabloAvilesPrieto = {
+export const aboutMe = {
   name: 'Aristidis Gianicopulos Loguercio',
   location: 'Madrid, Spain',
   role: 'Web developer',
