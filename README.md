@@ -32,7 +32,7 @@ export const aboutMe = {
 
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aritos20&show_icons=true&theme=dracula&count_private=true" height="150" alt="Aristidis Gianicopulos Loguercio" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=aritos20" height="150" alt="languages graph" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=aritos20&hide=php" height="150" alt="languages graph" />
 </div>
 
 ## 📝 Reach me out
