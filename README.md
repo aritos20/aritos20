@@ -1,5 +1,5 @@
 <h2 align="center">Hey there 🤗 I'm Aristidis Gianicopulos Loguercio</h2>
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&pause=1000&repeat=false&color=B6B6B6&center=true&width=425&vCenter=true&lines=Web+developer+😊">
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&pause=1000&repeat=false&color=B6B6B6&center=true&width=425&vCenter=true&lines=Full-Stack+Web+developer+😊">
 </p>
 
 ## 💻 About me </>
