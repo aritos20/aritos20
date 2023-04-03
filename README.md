@@ -8,9 +8,9 @@
 export const aboutMe = {
   name: 'Aristidis Gianicopulos Loguercio',
   location: 'Madrid, Spain',
-  role: 'Web developer',
-  code: [Javascript, HTML5, CSS3, SASS, C, C++],
-  tools: [ReactJS, Redux, Git, Docker],
+  role: 'Full-Stack Web Developer',
+  code: [Javascript, TypeScript, HTML5, CSS3, C, C++],
+  tools: [ReactJS, Redux, SASS, NodeJS, Express, MonogDB, MySql, Git, Docker],
   contact: 'agianicopulos@gmail.com'
 };
 ```
