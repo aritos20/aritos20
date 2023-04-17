@@ -10,7 +10,7 @@ export const aboutMe = {
   location: 'Madrid, Spain',
   role: 'Full-Stack Web Developer',
   code: [Javascript, TypeScript, HTML5, CSS3, C, C++],
-  tools: [ReactJS, Redux, SASS, NodeJS, Express, MonogDB, MySql, Git, Docker],
+  tools: [React, Redux, SASS, NodeJS, Express, MongoDB, MySql, Git, Docker],
   contact: 'agianicopulos@gmail.com'
 };
 ```
