@@ -1,5 +1,5 @@
 <h2 align="center">Hey there 🤗 I'm Aristidis Gianicopulos Loguercio</h2>
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&pause=1000&repeat=false&color=B6B6B6&center=true&width=425&vCenter=true&lines=Full-Stack+Web+developer+😊">
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&pause=1000&repeat=false&color=B6B6B6&center=true&width=425&vCenter=true&lines=Front-End+developer+😊">
 </p>
 
 ## 💻 About me </>
@@ -8,7 +8,7 @@
 export const aboutMe = {
   name: 'Aristidis Gianicopulos Loguercio',
   location: 'Madrid, Spain',
-  role: 'Full-Stack Web Developer',
+  role: 'Front-End Developer at INVYO',
   code: [Javascript, TypeScript, HTML5, CSS3, C, C++],
   tools: [React, Redux, SASS, NodeJS, Express, MongoDB, MySql, Git, Docker],
   contact: 'agianicopulos@gmail.com'
